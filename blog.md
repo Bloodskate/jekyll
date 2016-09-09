@@ -1,6 +1,4 @@
----
-  layout: page
-  title: "Blog"
+--- {}
 ---
 
-This is a blog
+This is a blog2
